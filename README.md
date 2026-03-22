@@ -43,15 +43,13 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BordasDaniel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="195" alt="stats graph" />
-  <img width="10" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BordasDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="195" alt="languages graph" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BordasDaniel&radius=16&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="activity-graph graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BordasDaniel&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=BordasDaniel&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BordasDaniel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BordasDaniel&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
-<br>
+  <br>
 
 <div align="center">
   <img src="https://github.com/BordasDaniel/BordasDaniel/blob/main/snake.svg" alt="Snake animation" />
